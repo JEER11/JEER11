@@ -1,5 +1,5 @@
-# Hi, I'm Jeraldine Rodriguez Blanco
-I am a Computer Engineering senior at the New Jersey Institute of Technology. My work focuses on embedded systems, hardware design, and artificial intelligence integration. 
+# Hi, I'm Jeraldine Rodriguez!
+I am a Computer Engineering senior at the New Jersey Institute of Technology. My work focuses on embedded systems, hardware design, artificial intelligence integration and web development. 
 
 ### GitHub Statistics
 
