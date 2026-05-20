@@ -1,1 +1,1 @@
-![Top Langs](https://vercel.app)
+![JEER11's GitHub stats](https://vercel.app)
