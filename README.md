@@ -7,6 +7,4 @@ I am a Computer Engineering senior at the New Jersey Institute of Technology. My
 * Working with microprocessor design, digital signal processing, and AI model training.
 
 ### GitHub Statistics
-![JEER11 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEER11&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEER11&layout=compact&theme=transparent&hide_border=true)
+![JEER11 Metrics](https://metrics.lecoq.io/JEER11)
